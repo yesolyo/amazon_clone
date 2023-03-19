@@ -14,5 +14,5 @@ const dimmedSidebarEvent = () => {
   ALL_SELECTORS.sidebarAll.addEventListener("click", dimmedSidebar);
   ALL_SELECTORS.sidebarClose.addEventListener("click", clearDimmedSidebar);
 };
-
+ㅇㄹㅇㅇ
 dimmedSidebarEvent();
